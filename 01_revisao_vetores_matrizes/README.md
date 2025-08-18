@@ -1,4 +1,5 @@
-# Lista de Exercícios -- Revisão de Vetores e Matrizes
+# Lista de Exercícios - Revisão de Vetores e Matrizes
+
 
 ### Exercício 1
 
@@ -34,7 +35,7 @@ public static int morango (int[] a, int p) {
 }
 ```
 
-------------------------------------------------------------------------
+---
 
 ### Exercício 2
 
@@ -70,62 +71,62 @@ public class Exe2 {
 }
 ```
 
-------------------------------------------------------------------------
+---
 
-### Exercício 3 -- Vetor: Inicialização e Impressão
+### Exercício 3 - Vetor: Inicialização e Impressão
 
 Escreva um programa em Java que cria um vetor de inteiros de tamanho 10
 e o inicialize com os valores de 1 a 10. Exiba os valores do vetor, um
 por linha.
 
-------------------------------------------------------------------------
+---
 
-### Exercício 4 -- Vetor: Soma dos Elementos
+### Exercício 4 - Vetor: Soma dos Elementos
 
 Escreva um programa em Java que cria um vetor de inteiros de tamanho 5 e
 o inicialize com valores fornecidos pelo usuário. Calcule e exiba a soma
 dos valores do vetor.
 
-------------------------------------------------------------------------
+---
 
-### Exercício 5 -- Vetor: Maior e Menor Valor
+### Exercício 5 - Vetor: Maior e Menor Valor
 
 Escreva um programa em Java que cria um vetor de inteiros de tamanho 10
 e o inicialize com valores aleatórios entre 1 e 100. Encontre e exiba o
 maior e o menor valor presente no vetor.
 
-------------------------------------------------------------------------
+---
 
-### Exercício 6 -- Vetor: Contagem de Pares e Ímpares
+### Exercício 6 - Vetor: Contagem de Pares e Ímpares
 
 Escreva um programa em Java que cria um vetor de inteiros de tamanho 10
 e o inicialize com valores aleatórios entre 1 e 20. Conte e exiba
 quantos números são pares e quantos são ímpares.
 
-------------------------------------------------------------------------
+---
 
-### Exercício 7 -- Matriz: Diagonal Principal
+### Exercício 7 - Matriz: Diagonal Principal
 
 Faça um **método** que receba como parâmetro uma matriz quadrada de
 números inteiros `M(5,5)` e retorne a soma dos elementos da diagonal
 principal desta matriz.
 
-------------------------------------------------------------------------
+---
 
-### Exercício 8 -- Matriz: Edifício Mack Vista
+### Exercício 8 - Matriz: Edifício Mack Vista
 
 O edifício **MACK VISTA** tem 10 andares e em cada andar existem 8
 apartamentos. O síndico deseja saber:
 
--   Quantidade de apartamentos vazios (nº moradores = 0)\
--   Qual é o andar que tem o maior número de moradores\
+-   Quantidade de apartamentos vazios (nº moradores = 0)
+-   Qual é o andar que tem o maior número de moradores
 -   Quantidade total de moradores do prédio
 
 Faça um programa em Java que simule esta situação:
 
--   Construa uma matriz `M(10x8)` representando o prédio.\
--   Linha 0 ➔ 1º andar, linha 1 ➔ 2º andar e assim por diante.\
+-   Construa uma matriz `M(10x8)` representando o prédio.
+-   Linha 0 ➔ 1º andar, linha 1 ➔ 2º andar e assim por diante.
 -   Preencha a matriz com números aleatórios entre 0 e 6 (quantidade de
-    moradores).\
--   Exiba a matriz na tela.\
+    moradores).
+-   Exiba a matriz na tela.
 -   Calcule e exiba os levantamentos solicitados pelo síndico.
