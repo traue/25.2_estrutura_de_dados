@@ -113,7 +113,7 @@ principal desta matriz.
 
 ---
 
-### Exercício 8 - Matriz: Edifício Mack Vista
+### Exercício 8 - Matriz: Edifício Mack Vista - ATIVIDADE NO MOODLE
 
 O edifício **MACK VISTA** tem 10 andares e em cada andar existem 8
 apartamentos. O síndico deseja saber:
