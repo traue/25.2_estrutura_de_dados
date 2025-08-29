@@ -6,7 +6,8 @@ Vídeo de demosntração do esperado:
 
 https://www.youtube.com/embed/zu9aQzv0C2g?si=kLT6LDZhFD7QwQeb
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zu9aQzv0C2g?si=kLT6LDZhFD7QwQeb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/zu9aQzv0C2g/maxresdefault.jpg)](https://youtu.be/zu9aQzv0C2g)
+
 
 ---
 
