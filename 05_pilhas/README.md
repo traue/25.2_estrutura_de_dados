@@ -45,11 +45,10 @@ A aplicação deve:
 2. Armazenar esses números em uma pilha.  
 3. Ao final, exibir os números na **ordem inversa** à que foram digitados.  
    - Exemplo: se a entrada for `10, 20, 30`, a saída deve ser `30, 20, 10`.  
-4. (Desafio extra ⭐) Implemente uma função que verifique se uma expressão matemática contém **parênteses balanceados** usando a pilha.  
-   - Entrada: `((2+3)*5)` → Saída: `Balanceada`  
-   - Entrada: `(2+3]*5)` → Saída: `Não balanceada`
+
 
 ### Critérios de entrega:
-- Código Java documentado.  
-- README explicando qual tipo de pilha foi escolhido (estática ou encadeada) e por quê.  
-- Teste mostrando a execução do programa.  
+- Código Java documentado
+- README ou PDF explicando qual tipo de pilha foi escolhido (estática ou encadeada) e por quê
+- Teste mostrando a execução do programa (prints)
+- Entrega via Moodle. Pode ser um PDF com tudo ou um link de um repositório
