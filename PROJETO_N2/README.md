@@ -3,6 +3,12 @@
 Gerencie uma coleção de **Pixels** (criaturas 8-bit) usando **lista encadeada genérica** para a coleção do usuário e **árvore binária de busca (BST)** como índice global. Opcionalmente, adicione uma **tabela hash** para buscas O(1) por `id`.
 
 ---
+## Demonstração
+
+[![Watch the video]([https://youtu.be/zu9aQzv0C2g](https://youtu.be/isKIfmgQgH8))
+
+
+---
 
 ## Sumário
 - [Objetivos de aprendizagem](#objetivos-de-aprendizagem)
